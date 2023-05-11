@@ -173,7 +173,7 @@ int quicksort_partition(int arr[], int l, int u) {
     while (arr[j] > pivot) j--;
     if (i < j) swap(&arr[i], &arr[j]);
   }
-  swap(&arr[l], &arr[j]);  // swapping because we are done with this drama -_-
+  swap(&arr[l], &arr[j]);
   return j;
 }
 
