@@ -1,11 +1,12 @@
-/*  This file contains all basic linked-list operations including:
- *  Insertion
- *  Deletion
- *  Traverse
- *
- *  Author: Wahid Sadik
- *  Date: 25-03-2023
- */
+/*
+This file contains all basic linked-list operations including:
+Insertion
+Deletion
+Traverse
+
+Author: Wahid Sadik
+Date: 25-03-2023
+*/
 
 #include <stdio.h>
 #include <stdlib.h>
