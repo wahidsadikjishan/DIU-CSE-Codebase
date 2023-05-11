@@ -1,3 +1,10 @@
+/*
+Program to check if a matrix is orthogonal or not
+
+Author: Wahid Sadik
+Created: 31-10-2022
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 
