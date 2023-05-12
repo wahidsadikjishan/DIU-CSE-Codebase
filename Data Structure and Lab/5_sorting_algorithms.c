@@ -6,6 +6,7 @@ algorithms:
 3. Bubble sort
 4. Merge sort
 5. Quick sort
+
 Author: Wahid Sadik
 Created: 25-02-2023
 */
