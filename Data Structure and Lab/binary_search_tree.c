@@ -1,5 +1,5 @@
 /*
-Binary search implementation
+Binary search tree implementation
 
 Author: Wahid Sadik
 Created: 13-05-2023
