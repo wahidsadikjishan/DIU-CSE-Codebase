@@ -2,7 +2,7 @@
 Binary search implementation
 
 Author: Wahid Sadik
-Created: 23-05-2023
+Created: 13-05-2023
 */
 
 #include <stdbool.h>
