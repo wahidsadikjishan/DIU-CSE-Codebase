@@ -14,6 +14,7 @@ int main() {
   int n = 5;
   printf("Enter 5 numbers: ");
   for (int i = 0; i < 5; i++) scanf("%d", &arr[i]);
+  printf("Sorted: ");
   selection_sort(arr, n);
   return 0;
 }
