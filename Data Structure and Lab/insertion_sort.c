@@ -1,5 +1,5 @@
 /*
-Selection sort
+Insertion sort
 
 Author: Wahid Sadik
 Created: 17-05-2023
