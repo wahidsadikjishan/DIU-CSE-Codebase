@@ -1,4 +1,5 @@
-/*Merge sort
+/*
+Merge sort
 
 Author: Wahid Sadik
 Created: 18-05-2023
